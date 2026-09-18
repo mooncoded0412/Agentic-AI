@@ -4,3 +4,7 @@ langchain-openai
 langchain_groq
 python-dotenv
 langchain-google-genai
+langgraph
+langsmith
+langchain-groq
+langchain_tavily
