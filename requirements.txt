@@ -8,3 +8,5 @@ langgraph
 langsmith
 langchain-groq
 langchain_tavily
+langchain-mcp-adapters
+mcp
